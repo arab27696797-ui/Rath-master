@@ -189,16 +189,3 @@ We encourage you to check out our [RATH Docs](https://docs.kanaries.net) for ref
 ## Project Status
 
 ![Alt](https://repobeats.axiom.co/api/embed/0aa0df006ea6857c02565043d39c2b0da5380f93.svg "Repobeats analytics image")
-
-## Community
-
-[Kanaries community](https://docs.kanaries.net/community) is a place to have open discussions on features, voice your ideas, or get help with general questions. Get onboard with us through the following channels:
-
-Our developer community is the backbone of the ongoing RATH project. We sincerely welcome you to [join our community](join), participate in the conversation and stay connected with us for the latest updates.
-- [Join our Slack](https://join.slack.com/t/kanaries-community/shared_invite/zt-1pcosgbua-E_GBPawQOI79C41dPDyyvw)
-- [Join our Discord](https://discord.gg/Z4ngFWXz2U)
-
-Feel free to [contribute to the RATH project](contribution-guide), submit any issues on our GitHub page, or split your grand new ideas in our chats.
-
-<a href="https://join.slack.com/t/kanaries-community/shared_invite/zt-1pcosgbua-E_GBPawQOI79C41dPDyyvw"><img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/slack.png" alt="Join our Slack community" width="200"/></a>
-<a href="https://discord.gg/Z4ngFWXz2U"><img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/discord.png" alt="Join our Discord community" width="200"/> </a>
