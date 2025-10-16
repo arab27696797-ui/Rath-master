@@ -49,14 +49,6 @@
 https://user-images.githubusercontent.com/22167673/234053551-24e0f1c9-1efb-4250-a2f8-dbf148f5f4d0.mp4
 
 
-> [!TIP]
-> If you want more AI features, we also build [runcell](https://runcell.dev), an AI Code Agent in Jupyter that understands your code/data/cells and generate code, execute cells and take actions for you. It can be used in jupyter lab with `pip install runcell`
-
-
-
-https://github.com/user-attachments/assets/9ec64252-864d-4bd1-8755-83f9b0396d38
-
-
 
 ## Get started
 
@@ -210,37 +202,3 @@ Feel free to [contribute to the RATH project](contribution-guide), submit any is
 
 <a href="https://join.slack.com/t/kanaries-community/shared_invite/zt-1pcosgbua-E_GBPawQOI79C41dPDyyvw"><img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/slack.png" alt="Join our Slack community" width="200"/></a>
 <a href="https://discord.gg/Z4ngFWXz2U"><img src="https://kanaries-docs.oss-cn-hangzhou.aliyuncs.com/img/discord.png" alt="Join our Discord community" width="200"/> </a>
-
-
-> Please consider sharing your experience or thoughts about [Kanaries RATH](https://kanaries.net) with the border Open Source community. It really does help!
-
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?style=flat-square&logo=reddit)](https://reddit.com/submit?url=https://github.com/Kanaries/Rath&title=OpenSource%20Augmented%20Analytic%20BI%20Solution:%20Automated%20Exploratory%20Data%20Analysis%20for%20Data%20Science)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?style=flat-square&logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/Kanaries/Rath)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?style=flat-square&logo=twitter)](https://twitter.com/share?url=https://github.com/Kanaries/Rath&text=OpenSource%20Augmented%20Analytic%20BI%20Solution:%20Automated%20Exploratory%20Data%20Analysis%20for%20Data%20Science)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?style=flat-square&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/Kanaries/Rath)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?style=flat-square&logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/Kanaries/Rath&title=OpenSource%20Augmented%20Analytic%20BI%20Solution:%20Automated%20Exploratory%20Data%20Analysis%20for%20Data%20Science)
-
-## Contributions
-
-Please check out the [Contributing to RATH guide](https://docs.kanaries.net/community/contribution-guide)
-for guidelines about how to proceed.
-
-Thanks to all contributors :heart:
-
-<a href="https://github.com/kanaries/rath/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kanaries/rath" />
-</a>
-
-## LICENSE (AGPL)
-Rath is an automated data analysis and visualization tool (auto-EDA). It is a free and open-source software licensed under the AGPL.
-
----
-
-Branded icons are licensed under their copyright license.
-<br>
-<p align="center">
-  <br>
-  <strong>Have fun with data!</strong> ❤️
-</p>
-
-[⬆ Back to Top](#introduction)
